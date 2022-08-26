@@ -1,0 +1,252 @@
+Barber - Barbers & Hair Cutting
+This is a barber html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+Call Us : 
+012 (345) 67 895
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Opening Hour :
+Sunday - Friday, 08 am - 09 pm
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="chatbubble-ellipses-outline"></ion-icon>
+
+Barber
+Hair Salon
+
+Home
+Services
+Pricing
+Gallery
+Appointment
+Contact
+
+aria-label="toggle menu"
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Appointment
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Barbers & Hair Cutting
+
+Sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua suspendisse ultrices gravida
+
+Explore Our Services
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SERVICE ----------#
+
+Service We Provide
+
+Sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt labore dolore magna aliqua suspendisse
+
+<i class="flaticon-salon"></i>
+
+Hair Cutting Style
+
+Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+aria-label="more"
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+<i class="flaticon-shampoo"></i>
+Hair Washing
+
+<i class="flaticon-hot-stone"></i>
+Body Treatments
+
+<i class="flaticon-treatment"></i>
+Beauty & Spa
+
+<i class="flaticon-shaving-razor"></i>
+Stylist Shaving
+
+<i class="flaticon-hair-dye"></i>
+Multi Hair Colors
+
+
+
+#---------- PRICING ----------#
+
+Awesome Pricing Plan
+
+Sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt labore dolore magna aliqua suspendisse
+
+filter = all
+<i class="flaticon-beauty-salon" aria-hidden="true"></i>
+All Pricing
+
+filter = beauty-spa
+<i class="flaticon-relax" aria-hidden="true"></i>
+Beauty & Spa
+
+filter = body-treatments
+<i class="flaticon-massage" aria-hidden="true"></i>
+Body Treatments
+
+filter = face-washing
+<i class="flaticon-spa" aria-hidden="true"></i>
+Face Washing
+
+filter = meditations
+<i class="flaticon-yoga" aria-hidden="true"></i>
+Meditations
+
+filter = shaving
+<i class="flaticon-razor-blade" aria-hidden="true"></i>
+Shaving
+
+filter = shaving
+alt = Hair Cutting & Fitting
+
+Hair Cutting & Fitting
+Clean & simple 30-40 minutes
+$89
+
+filter = shaving
+Shaving & Facial
+$45
+
+filter = face-washing
+Hair Color & Wash
+$35
+
+filter = body-treatments
+Body Massage
+$56
+
+filter = beauty-spa
+Beauty & Spa
+$27
+
+filter = face-washing
+Facial & Face Wash
+$63
+
+filter = body-treatments
+Backbone Massage
+$43
+
+filter = meditations
+Meditation & Massage
+$74
+
+
+
+#---------- GALLERY ----------#
+
+Latest Photo Gallery
+
+Sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt labore dolore magna aliqua suspendisse
+
+Explore More Gallery
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Hair Cutting
+
+Hair Cutting
+
+Barbers & Salon Services
+
+aria-label="Read more"
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- APPOINTMENT ----------#
+
+Make Appointment
+
+Sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt labore dolore magna aliqua suspendisse
+
+placeholder = Your Full Name
+placeholder = Email Address
+placeholder = Phone Number
+
+Select category
+Beauty & spa
+Body massage
+Shaving & Facial
+Hair Color
+
+placeholder = Write Message
+
+Appointment Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+Barber
+Hair Salon
+
+placeholder = Enter Your Email
+
+Subscribe Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Quick Links
+
+Our Services
+Meet Our Team
+Our Portfolio
+Need A Career?
+News & Blog
+
+Services
+
+Hair Cutting
+Shaving & Design
+Hair Colors
+Beauty & Spa
+Body Massages
+
+Recent News
+
+alt = The beginners guide to Henna Brows in Brisbane
+The beginners guide to Henna Brows in Brisbane
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+25 August 2022
+
+alt = How do I get rid of unwanted hair on my face?
+How do I get rid of unwanted hair on my face?
+
+Contact Us
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+7528 Roberts Ave. Palm Bay, FL 32907
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++012 (345) 67 89
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Sun - Friday, 08 am - 09 pm
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+support@gmail.com
+
+&copy; 2022 codewithsadee. All Rights Reserved.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label="back to top"
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
