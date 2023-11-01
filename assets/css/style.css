@@ -641,7 +641,7 @@ body {
   padding-inline: 25px;
   border-radius: var(--radius-5);
   margin-block-end: 20px;
-  outline: none;
+  outline-color: transparent;
   outline-offset: 0;
 }
 
@@ -735,7 +735,7 @@ textarea.input-field {
   text-align: center;
   margin-block-end: 15px;
   color: inherit;
-  outline: none;
+  outline-color: transparent;
 }
 
 .footer .btn {
